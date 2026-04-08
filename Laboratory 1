@@ -1,0 +1,15 @@
+#Problem: Create a Program that displays your personal information
+
+name = "Jules Angelo Tuballas"
+age = 19
+address = "Cadajug, Laua-an, Antique"
+birthday = "July 5, 2006"
+hobby = "Read financial books"
+skill = "money making"
+
+print(name)
+print( age)
+print(address)
+print(birthday)
+print(hobby)
+print(skill)
